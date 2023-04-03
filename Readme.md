@@ -74,3 +74,5 @@ Stage 2 - new requirements
 
 ### Source
 - https://codingdojo.org/kata/FizzBuzz/
+
+## Autor: Caren Salles
