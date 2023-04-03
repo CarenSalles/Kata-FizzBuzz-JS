@@ -1,4 +1,4 @@
-export function Fizzbuzz(number) 
+export function fizzBuzz(number) 
 {
     if (number % 3 == 0 && number % 5 == 0) {
         return "FizzBuzz";
@@ -12,7 +12,7 @@ export function Fizzbuzz(number)
 }
 
 export function fizzBuzz2(number){
-    if((number % 3 == 0 || number.toString().indexOf("3") >= 0) && 8(number % 5 == 0 || number.toString().indexOf("5") >= 0)) {
+    if((number % 3 == 0 || number.toString().indexOf("3") >= 0) && (number % 5 == 0 || number.toString().indexOf("5") >= 0)) {
         return "FizzBuzz";
     }
 
